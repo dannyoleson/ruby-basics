@@ -1,5 +1,9 @@
-Basics
-------
+Ruby Basics
+------------------
+
+This repository is for the sole purpose of having a space to play with ruby and some gems.
 
 
-Some basic test driven examples to show off elements of Ruby.
+Description
+----------------
+A few friends of mine were interested in learning ruby.
